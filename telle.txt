@@ -1,0 +1,1 @@
+AWS_ACCESS_KEY="efregrf4r4tgesrstbtrb"
